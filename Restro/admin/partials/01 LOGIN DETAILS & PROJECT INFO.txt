@@ -1,0 +1,20 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: rposystem**
+
+**Developed by Martin Mbithi Nzilani**
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Email	: dasdebasmita596@gmail.con
+Password: 123456
+
+**Cashier Login Details**
+
+Email	: cashier@mail.com
+Password: codeastro.com
+
+
